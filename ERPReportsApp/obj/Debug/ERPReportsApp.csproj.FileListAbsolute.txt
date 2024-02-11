@@ -1,0 +1,3 @@
+D:\Code\.NET\bt_erp\ERPReportsApp\obj\Debug\RdlCompile.cache
+D:\Code\.NET\bt_erp\ERPReportsApp\obj\Debug\RdlCompile.compiled
+D:\Code\.NET\bt_erp\ERPReportsApp\obj\Debug\ERPReportsApp.csprojAssemblyReference.cache
